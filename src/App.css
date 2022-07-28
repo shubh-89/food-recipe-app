@@ -1,6 +1,6 @@
-body{ 
+body {
   background-color: lightpink;
-} 
+}
 
 .app {
   display: flex;
@@ -32,7 +32,7 @@ body{
   color: solid black;
 }
 
-.app__submit:hover{
+.app__submit:hover {
   padding: 6px 16px;
   font-size: 15px;
   margin-left: 16px;
@@ -44,12 +44,10 @@ body{
   background-color: white;
 }
 
-
-.app__recipes{
+.app__recipes {
   display: grid;
   margin-top: 24px;
-  grid-template-columns: 230px 230px; 
+  grid-template-columns: 230px 230px;
   align-items: center;
   justify-content: center;
 }
-
